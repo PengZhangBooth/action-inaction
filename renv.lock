@@ -1,6 +1,10 @@
 {
   "R": {
+<<<<<<< Updated upstream
     "Version": "4.2.3",
+=======
+    "Version": "4.4.1",
+>>>>>>> Stashed changes
     "Repositories": [
       {
         "Name": "CRAN",
@@ -65,9 +69,15 @@
     },
     "MASS": {
       "Package": "MASS",
+<<<<<<< Updated upstream
       "Version": "7.3-60",
       "Source": "Repository",
       "Repository": "https://packagemanager.posit.co/cran/2023-12-06",
+=======
+      "Version": "7.3-60.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+>>>>>>> Stashed changes
       "Requirements": [
         "R",
         "grDevices",
@@ -76,6 +86,7 @@
         "stats",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "a56a6365b3fa73293ea8d084be0d9bb0"
     },
     "Matrix": {
@@ -83,6 +94,15 @@
       "Version": "1.6-4",
       "Source": "Repository",
       "Repository": "https://packagemanager.posit.co/cran/2023-12-06",
+=======
+      "Hash": "2f342c46163b0b54d7b64d1f798e2c78"
+    },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.7-0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+>>>>>>> Stashed changes
       "Requirements": [
         "R",
         "grDevices",
@@ -93,7 +113,11 @@
         "stats",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "d9c655b30a2edc6bb2244c1d1e8d549d"
+=======
+      "Hash": "1920b2f11133b12350024297d8a4ff4a"
+>>>>>>> Stashed changes
     },
     "MatrixModels": {
       "Package": "MatrixModels",
@@ -228,7 +252,11 @@
     },
     "abind": {
       "Package": "abind",
+<<<<<<< Updated upstream
       "Version": "1.4-8",
+=======
+      "Version": "1.4-5",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -236,7 +264,11 @@
         "methods",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "2288423bb0f20a457800d7fc47f6aa54"
+=======
+      "Hash": "4f57884290cc75ab22f4af9e9d4ca862"
+>>>>>>> Stashed changes
     },
     "afex": {
       "Package": "afex",
@@ -294,7 +326,11 @@
     },
     "boot": {
       "Package": "boot",
+<<<<<<< Updated upstream
       "Version": "1.3-31",
+=======
+      "Version": "1.3-30",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -302,7 +338,11 @@
         "graphics",
         "stats"
       ],
+<<<<<<< Updated upstream
       "Hash": "de2a4646c18661d6a0a08ec67f40b7ed"
+=======
+      "Hash": "96abeed416a286d4a0f52e550b612343"
+>>>>>>> Stashed changes
     },
     "broom": {
       "Package": "broom",
@@ -599,6 +639,7 @@
     },
     "evaluate": {
       "Package": "evaluate",
+<<<<<<< Updated upstream
       "Version": "1.0.0",
       "Source": "Repository",
       "Repository": "CRAN",
@@ -606,6 +647,16 @@
         "R"
       ],
       "Hash": "6b567375113ceb7d9f800de4dd42218e"
+=======
+      "Version": "0.24.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "methods"
+      ],
+      "Hash": "a1066cbc05caee9a4bf6d90f194ff4da"
+>>>>>>> Stashed changes
     },
     "fansi": {
       "Package": "fansi",
@@ -949,13 +1000,21 @@
     },
     "jsonlite": {
       "Package": "jsonlite",
+<<<<<<< Updated upstream
       "Version": "1.8.9",
+=======
+      "Version": "1.8.8",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "methods"
       ],
+<<<<<<< Updated upstream
       "Hash": "4e993b65c2c3ffbffce7bb3e2c6f832b"
+=======
+      "Hash": "e1b9c55281c5adc4dd113652d9e26768"
+>>>>>>> Stashed changes
     },
     "kSamples": {
       "Package": "kSamples",
@@ -1092,7 +1151,11 @@
       "Package": "mgcv",
       "Version": "1.9-1",
       "Source": "Repository",
+<<<<<<< Updated upstream
       "Repository": "RSPM",
+=======
+      "Repository": "CRAN",
+>>>>>>> Stashed changes
       "Requirements": [
         "Matrix",
         "R",
@@ -1188,18 +1251,30 @@
     },
     "mvtnorm": {
       "Package": "mvtnorm",
+<<<<<<< Updated upstream
       "Version": "1.3-1",
+=======
+      "Version": "1.2-6",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "R",
         "stats"
       ],
+<<<<<<< Updated upstream
       "Hash": "77c61d51ce0f36e3c1a76e6b295aab31"
     },
     "nlme": {
       "Package": "nlme",
       "Version": "3.1-166",
+=======
+      "Hash": "b5b11e71e41d9d0eef7d8dc26903ed55"
+    },
+    "nlme": {
+      "Package": "nlme",
+      "Version": "3.1-164",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1209,7 +1284,11 @@
         "stats",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "ccbb8846be320b627e6aa2b4616a2ded"
+=======
+      "Hash": "a623a2239e642806158bc4dc3f51565d"
+>>>>>>> Stashed changes
     },
     "nloptr": {
       "Package": "nloptr",
@@ -1240,6 +1319,7 @@
       ],
       "Hash": "df58958f293b166e4ab885ebcad90e02"
     },
+<<<<<<< Updated upstream
     "pacman": {
       "Package": "pacman",
       "Version": "0.5.1",
@@ -1254,6 +1334,8 @@
       ],
       "Hash": "b37932b67288bc62bb81686b2f337a7d"
     },
+=======
+>>>>>>> Stashed changes
     "paletteer": {
       "Package": "paletteer",
       "Version": "1.6.0",
@@ -1287,12 +1369,19 @@
     },
     "patchwork": {
       "Package": "patchwork",
+<<<<<<< Updated upstream
       "Version": "1.3.0",
+=======
+      "Version": "1.2.0",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "cli",
+<<<<<<< Updated upstream
         "farver",
+=======
+>>>>>>> Stashed changes
         "ggplot2",
         "grDevices",
         "graphics",
@@ -1302,7 +1391,11 @@
         "stats",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "e23fb9ecb1258207bcb763d78d513439"
+=======
+      "Hash": "9c8ab14c00ac07e9e04d1664c0b74486"
+>>>>>>> Stashed changes
     },
     "pbapply": {
       "Package": "pbapply",
@@ -1481,6 +1574,7 @@
       ],
       "Hash": "76c9e04c712a05848ae7a23d2f170a40"
     },
+<<<<<<< Updated upstream
     "remotes": {
       "Package": "remotes",
       "Version": "2.5.0",
@@ -1504,6 +1598,17 @@
         "utils"
       ],
       "Hash": "397b7b2a265bc5a7a06852524dabae20"
+=======
+    "renv": {
+      "Package": "renv",
+      "Version": "1.0.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "utils"
+      ],
+      "Hash": "ef233f0e9064fc88c898b340c9add5c2"
+>>>>>>> Stashed changes
     },
     "reshape": {
       "Package": "reshape",
@@ -1689,7 +1794,11 @@
     },
     "survival": {
       "Package": "survival",
+<<<<<<< Updated upstream
       "Version": "3.7-0",
+=======
+      "Version": "3.6-4",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1701,7 +1810,11 @@
         "stats",
         "utils"
       ],
+<<<<<<< Updated upstream
       "Hash": "5aaa9cbaf4aba20f8e06fdea1850a398"
+=======
+      "Hash": "e6e3071f471513e4b85f98ca041303c7"
+>>>>>>> Stashed changes
     },
     "tibble": {
       "Package": "tibble",
@@ -1763,13 +1876,21 @@
     },
     "tinytex": {
       "Package": "tinytex",
+<<<<<<< Updated upstream
       "Version": "0.53",
+=======
+      "Version": "0.52",
+>>>>>>> Stashed changes
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "xfun"
       ],
+<<<<<<< Updated upstream
       "Hash": "9db859e8aabbb474293dde3097839420"
+=======
+      "Hash": "cfbad971a71f0e27cec22e544a08bc3b"
+>>>>>>> Stashed changes
     },
     "utf8": {
       "Package": "utf8",
